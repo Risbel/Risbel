@@ -4,6 +4,37 @@
 
 <p align="left">My name is Risbel, and I'm a Full-Stack Web Developer.<br><br>I build modern, scalable, and user-friendly web applications, focusing on clean architecture and great user experiences. Passionate about problem-solving and continuous learning, I'm always looking for new challenges.</p>
 
+## 💼 Work Experience  
+
+<img src="https://artgoma.com/logo-artgoma.svg" height="50" width="50" alt="ArtGoma logo" />  
+### **ArtGoma Company**  
+📍 *Tenerife, Spain*  
+🛠 **Frontend Lead & Full-Stack Developer**  
+📅 *January 2024 – Present*  
+
+- Leading frontend development and contributing to full-stack solutions.  
+- Working on projects like:  
+  - **[ArtGoma](https://artgoma.com)** *(recently released)*  
+  - **[Perseidas](https://perseidas.vercel.app/es)**  
+  - **[Art Experience](https://art-experience.pages.dev/es)**  
+  - **[One Fashion Bistro](https://onefashionbistro.myaipeople.com/es)**  
+  - **MyEvents**  
+  - **Art-World**  
+  - **Mercate**  
+  - Other private projects...  
+
+<img src="https://www.desoft.cu/themes/custom/buildframetheme/img/logo_navbar.svg" height="40" width="160" alt="Desoft logo" />  
+### **Desoft Cienfuegos** (Cuba)  
+**Frontend Development Team Lead** (01/2022 - 01/2024)  
+
+### **Storm Roofing (Freelance, USA)**
+**[Storm Roofing](https://storm-roofing.vercel.app)**
+
+### **Professor of Mathematics**  
+**Octavio Garcia Hdez. Pedagogical School** (09/2018 - 06/2021)  
+
+---
+
 ###
 
 <h2 align="left">Lover of:</h2>
