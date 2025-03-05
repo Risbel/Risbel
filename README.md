@@ -6,11 +6,11 @@
 
 ## 💼 Work Experience  
 
-<img src="https://artgoma.com/logo-artgoma.svg" height="50" width="50" alt="ArtGoma logo" />  
+### <img src="https://artgoma.com/logo-artgoma.svg" height="50" width="50" alt="ArtGoma logo" />
 ### **ArtGoma Company**  
 📍 *Tenerife, Spain*  
 🛠 **Frontend Lead & Full-Stack Developer**  
-📅 *January 2024 – Present*  
+📅 *January 2024 – Present* 
 
 - Leading frontend development and contributing to full-stack solutions.  
 - Working on projects like:  
@@ -23,7 +23,7 @@
   - **Mercate**  
   - Other private projects...  
 
-<img src="https://www.desoft.cu/themes/custom/buildframetheme/img/logo_navbar.svg" height="40" width="160" alt="Desoft logo" />  
+### <img src="https://www.desoft.cu/themes/custom/buildframetheme/img/logo_navbar.svg" height="40" width="160" alt="Desoft logo" />  
 ### **Desoft Cienfuegos** (Cuba)  
 **Frontend Development Team Lead** (01/2022 - 01/2024)  
 
