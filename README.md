@@ -14,14 +14,11 @@
 
 - Leading frontend development and contributing to full-stack solutions.  
 - Working on projects like:  
-  - **[ArtGoma](https://artgoma.com)** *(recently released)*  
+  - **[ArtGoma](https://artgoma.com)**  
   - **[Perseidas](https://perseidas.vercel.app/es)**  
-  - **[Art Experience](https://art-experience.pages.dev/es)**  
   - **[One Fashion Bistro](https://onefashionbistro.myaipeople.com/es)**  
-  - **MyEvents**  
-  - **Art-World**  
-  - **Mercate**  
-  - Other private projects...  
+  - **[MyAiBusiness](https://myaibs.com)**    
+  - And more...  
 
 ### <img src="https://www.desoft.cu/themes/custom/buildframetheme/img/logo_navbar.svg" height="40" width="160" alt="Desoft logo" />  
 ### **Desoft Cienfuegos** (Cuba)  
@@ -84,7 +81,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://www.cursor.com/assets/videos/logo/placeholder-logo.webp" height="40" alt="vscode logo"  />
   <img width="12" />
