@@ -58,8 +58,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" height="40" alt="astro logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" alt="redux logo"  />
@@ -69,10 +67,6 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://zod.dev/logo.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
